@@ -3,7 +3,9 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-This is an introduction text
+This is an introduction text.
+Some more changes from myfeature branch
+
 
 ## Purpose
 
