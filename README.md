@@ -8,7 +8,8 @@ This is an introduction text
 ## Purpose
 
 Sample website with plenty of files for demos.
-Nog wat text
+Nog wat text. 
+Add some more text.
 
 ## Deployment
 
