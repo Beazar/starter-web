@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	SANDER BEAZAR sander.beazar@ae.be
 # THANKS
 
     <name>
