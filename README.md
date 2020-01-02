@@ -14,3 +14,5 @@ Nog wat text
 
 TEST
 ## How To Contribute
+
+2019 SANDER BEAZAR
